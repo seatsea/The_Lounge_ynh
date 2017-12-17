@@ -1,6 +1,8 @@
-Shout
+The Lounge
 -----
 
-Shout is a web IRC client that you host on your own server.
+The Lougne is a web IRC client that you host on your own server.
 
-See http://shout-irc.com/
+See https://thelounge.github.io/
+
+This is a fork of the original Shout ynh app.
